@@ -1,0 +1,15 @@
+C:\Users\clair\source\lab3-a\obj\Debug\net6.0\lab3-a.csproj.AssemblyReference.cache
+C:\Users\clair\source\lab3-a\obj\Debug\net6.0\lab3-a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clair\source\lab3-a\obj\Debug\net6.0\lab3-a.AssemblyInfoInputs.cache
+C:\Users\clair\source\lab3-a\obj\Debug\net6.0\lab3-a.AssemblyInfo.cs
+C:\Users\clair\source\lab3-a\obj\Debug\net6.0\lab3-a.csproj.CoreCompileInputs.cache
+C:\Users\clair\source\lab3-a\bin\Debug\net6.0\lab3-a.exe
+C:\Users\clair\source\lab3-a\bin\Debug\net6.0\lab3-a.deps.json
+C:\Users\clair\source\lab3-a\bin\Debug\net6.0\lab3-a.runtimeconfig.json
+C:\Users\clair\source\lab3-a\bin\Debug\net6.0\lab3-a.dll
+C:\Users\clair\source\lab3-a\bin\Debug\net6.0\lab3-a.pdb
+C:\Users\clair\source\lab3-a\obj\Debug\net6.0\lab3-a.dll
+C:\Users\clair\source\lab3-a\obj\Debug\net6.0\refint\lab3-a.dll
+C:\Users\clair\source\lab3-a\obj\Debug\net6.0\lab3-a.pdb
+C:\Users\clair\source\lab3-a\obj\Debug\net6.0\lab3-a.genruntimeconfig.cache
+C:\Users\clair\source\lab3-a\obj\Debug\net6.0\ref\lab3-a.dll
